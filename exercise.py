@@ -15,8 +15,6 @@
 #     if finish: break
 
 
-
-
 # Это ФАКРТОРИАЛ ЧИСЛА n
 # n = int(input())
 # res = 1
@@ -34,3 +32,13 @@
 #                 if a ** 3 + b ** 3 == c ** 3 + d ** 3 and a != c and b != d and a!= d and b!= c and a!= b and c != d:
 #                     print(a ** 3 + b ** 3)
 
+#n, b = 14, 'fsfftsfufksttskskt'
+#for i in range(len(b)):
+#    if ord(b[i]) - n >= ord('a'):
+#        print(chr(ord(b[i]) - n), end='')
+#    else:
+#        print(chr(ord(b[i]) - n + 26), end='')
+
+# s = 'aaffective'
+# s[2].replace('f', '')
+# print()
